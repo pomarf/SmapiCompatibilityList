@@ -5378,6 +5378,13 @@
 			"github": "JudeRV/SDV_WikiLinker"
 		},
 		{
+			"name": "Charcoal Kiln Tweaks",
+		   "author": "pomarf",
+		   "id": "pomarf.CharcoalKilnTweaks",
+		   "nexus": 45107,
+		   "github": null
+		},
+		{
 			"name": "Chargeable Resource Tools",
 			"author": "DaLion",
 			"id": "DaLion.Chargeable",
@@ -25869,6 +25876,13 @@
 			"id": "ytsc.QualityFishPonds",
 			"nexus": 11021,
 			"github": "YTSC/StardewValleyMods"
+		},
+		{
+			"name": "Quality Fishing",
+		   "author": "pomarf",
+		   "id": "pomarf.QualityFishing",
+		   "nexus": 45088,
+		   "github": null
 		},
 		{
 			"name": "Quality Of Combat",
